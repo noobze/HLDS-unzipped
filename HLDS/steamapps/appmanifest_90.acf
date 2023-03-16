@@ -1,0 +1,43 @@
+"AppState"
+{
+	"appid"		"90"
+	"Universe"		"1"
+	"name"		"Half-Life Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"Half-Life"
+	"LastUpdated"		"1614489883"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"85599338"
+	"buildid"		"5433925"
+	"LastOwner"		"76561201376497719"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"0"
+	"BytesStaged"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"4"
+		{
+			"manifest"		"8690279432129063737"
+			"size"		"25737094"
+		}
+		"1006"
+		{
+			"manifest"		"6688153055340488873"
+			"size"		"59862244"
+		}
+	}
+	"SharedDepots"
+	{
+		"1"		"70"
+		"11"		"10"
+		"71"		"70"
+	}
+	"UserConfig"
+	{
+		"betakey"		"beta"
+	}
+}
